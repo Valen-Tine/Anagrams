@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Roma\Roma\bin\Debug\netcoreapp3.1\Roma.exe
+C:\Users\Lenovo\source\repos\Roma\Roma\bin\Debug\netcoreapp3.1\Roma.deps.json
+C:\Users\Lenovo\source\repos\Roma\Roma\bin\Debug\netcoreapp3.1\Roma.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Roma\Roma\bin\Debug\netcoreapp3.1\Roma.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Roma\Roma\bin\Debug\netcoreapp3.1\Roma.dll
+C:\Users\Lenovo\source\repos\Roma\Roma\bin\Debug\netcoreapp3.1\Roma.pdb
+C:\Users\Lenovo\source\repos\Roma\Roma\obj\Debug\netcoreapp3.1\Roma.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Roma\Roma\obj\Debug\netcoreapp3.1\Roma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Roma\Roma\obj\Debug\netcoreapp3.1\Roma.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Roma\Roma\obj\Debug\netcoreapp3.1\Roma.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Roma\Roma\obj\Debug\netcoreapp3.1\Roma.dll
+C:\Users\Lenovo\source\repos\Roma\Roma\obj\Debug\netcoreapp3.1\Roma.pdb
+C:\Users\Lenovo\source\repos\Roma\Roma\obj\Debug\netcoreapp3.1\Roma.genruntimeconfig.cache
